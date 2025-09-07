@@ -32,5 +32,9 @@ go2finder is a powerful and easy-to-use **OSINT (Open Source Intelligence)** too
 
 ```bash
 git clone https://github.com/ghostx313/go2finder.git
+pip install requests
+pip install phonenumbers
+pip install whois
 cd go2finder
 python3 go2finder.py
+
