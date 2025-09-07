@@ -31,6 +31,6 @@ go2finder is a powerful and easy-to-use **OSINT (Open Source Intelligence)** too
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/go2finder.git
+git clone https://github.com/ghostx313/go2finder.git
 cd go2finder
 python3 go2finder.py
