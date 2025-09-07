@@ -65,7 +65,7 @@ def banner():
                               -###**++=========+++**###                
                                 =###**++++++++++**#**                  
                                    #*##********##*+                    
-    
+    anuthor: ghostx
     
                                                        {Colours.RES}""")
 def clear():
